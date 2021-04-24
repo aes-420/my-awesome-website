@@ -1,0 +1,34 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+  }
+p {
+    color: red;
+}
+
+h1 {
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  body {
+    text-align: center;
+    background-color: lightblue;
+  }
+
+  .class-example-1 {
+    color: blue;
+  }
+
+  #id-example-1 {
+    color: green;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
